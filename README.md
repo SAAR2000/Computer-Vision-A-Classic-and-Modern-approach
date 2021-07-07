@@ -6,3 +6,6 @@ The main aim of the project was to introduce Computer Vision.
 4. Applications: In this part, we were introduced to some applications of Computer Vision in the real world and we had to implement one of those in teams of 3. Our team chose to build a document scanner.
 
 ## Document Scanner
+The link to the repository can be found [here](https://github.com/SAAR2000/Document-Scanner)
+## Website
+The link to the project website can be found [here](https://www.notion.so/Computer-Vision-A-Classic-and-Modern-approach-93006fe5d79f49be9948d9d845c4367d)
